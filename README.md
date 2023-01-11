@@ -2,7 +2,7 @@
 <h3 align="center">Integrify full-stack developer student from Ukraine! Welcome to my GitHub 🤝</h3>
 
 
-- 📫 How to reach me **kokhnenko8@gmail.com**
+- 📫 Ask me how coding changed my life **kokhnenko8@gmail.com**
 
 <h3 align="left">Me on Linkedin:</h3>
 <p align="left">
